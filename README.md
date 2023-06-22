@@ -12,7 +12,6 @@ You ask it about yourself and it will give compliments in return
 * "Do you find my jokes funny?"
 * "Am i strong?"
 * "Am i smart?"
-* "Y"
 * "Am i resourceful?"
 
 ## Credits
